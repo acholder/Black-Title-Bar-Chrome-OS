@@ -1,0 +1,15 @@
+{
+
+"manifest_version": 2,
+"name": "Black Title Bar",
+"version": "1.0",
+
+"content_scripts":
+[{
+"js":["jquery.js","content.js"],
+"matches": ["<all_urls>"],
+"run_at": "document_start"
+
+}]
+
+}
