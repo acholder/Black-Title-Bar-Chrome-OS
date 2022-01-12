@@ -21,7 +21,7 @@ NOTE:
 
   * Windowed sites on Windows and macOS may use OS system theme, rendering this extension useless.
   * Does NOT override custom theme color specified by site.
-  * Does NOT theme system windows (settings, files, etc).
+  * Does NOT theme Chrome OS system windows (settings, files, etc).
   * Requires "Developer Mode" to be enabled.
 
 Installation:
