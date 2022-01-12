@@ -32,6 +32,4 @@ Installation:
   4. A new menu will appear. Click the "Load unpacked" option found on the upper left.
   5. Browse to the location of the extension's folder and select it.
 
-That's it!
-
 
