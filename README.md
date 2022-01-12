@@ -22,7 +22,7 @@ IMPORTANT:
 
   * Does NOT override custom theme color specified by site.
   * Does NOT theme system windows (settings, files, etc).
-  * Requires "Developer Mode" to be enabled
+  * Requires "Developer Mode" to be enabled.
 
 Installation:
   
