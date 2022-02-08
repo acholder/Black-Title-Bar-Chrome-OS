@@ -8,7 +8,7 @@
  This extremely basic (and featureless) Chrome extension (made with jQuery) changes a windowed site's title bar from white to black. 
 
  The difference is night and day!
- ...for me at least
+ ...for me at least.
 
 Compatibility:
 
